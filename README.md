@@ -1,3 +1,3 @@
-# ML_classifiaction
+# ML_classification
 ## EDA
 ## Classification
