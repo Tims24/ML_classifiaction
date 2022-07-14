@@ -1,3 +1,5 @@
-# ML_classification
-## EDA
-## Classification
+# Car type classification
+
+* data - auto.csv
+
+
